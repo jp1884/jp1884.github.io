@@ -6,3 +6,5 @@ Gemfile.lock
 .jekyll-cache
 *.gem
 notes.md
+/notes
+assets/img/tev

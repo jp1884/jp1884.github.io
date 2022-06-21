@@ -10,9 +10,9 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Storytelling"
-description:	       "Understanding the user experience by studying storytelling"
-author:              "John"
+title:		           "Story Made Tools"
+description:	       "Using storytelling to learn about stuff "
+author:              "John via Aristotle and Mamet"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:

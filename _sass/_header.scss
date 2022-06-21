@@ -1,10 +1,11 @@
 .site-header {
   min-height: 56px;
   width: $container-width;
-  position: fixed;
-  background-color: white;
-  box-shadow: 0 5px 6px -6px #bbb;
+  position: relative;
+  background-color: $bg-gray;
+  // box-shadow: 0 5px 6px -6px #bbb;
   z-index: 100;
+  padding-top: 30px;
 }
 @media (max-width: $container-width) {
   .site-header {
@@ -20,21 +21,25 @@
   text-decoration: none;
 }
 .site-title {
-  font-size: 20px;
-  font-weight: 400;
+  font-size: 40px;
+  font-weight: 600;
   line-height: 56px;
-  margin-right: -50px;
   margin-bottom: 0;
   margin-top: 0;
   padding-left: 10px;
   float: left;
+  // color: #008aed !important
 }
 .menu-list {
   line-height: $header-thickness;
   float: right;
 }
 .menu-link {
-  padding: 5px 10px;
+  padding: 8px 10px;
+}
+.menu-link:hover {
+  background-color: #dedddd;
+  padding: 8px 10px;
 }
 
 /*

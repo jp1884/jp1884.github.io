@@ -6,12 +6,14 @@
   width: $container-width;
   margin-left: auto;
   margin-right: auto;
+  background-color: $bg-gray;
 }
 .container a {
   text-decoration: underline;
 }
 .content-wrapper {
-  padding-top: $header-thickness+10px;
+  // padding-top: $header-thickness+2px;
+  padding-top: 2.8rem;
   margin: auto;
   display: block;
   width: $container-width - 20px;
@@ -26,9 +28,28 @@
     margin-right: auto;
   }
   .content-wrapper {
-    padding-top: $header-thickness+10px;
+    // padding-top: $header-thickness+10px;
+    padding-top: 2rem;
     margin: auto;
     display: block;
     width: 95vw;
   }
 }
+
+// lazy spacer
+.lazy-spacer {
+  padding: 50px;
+}
+
+@media (max-width: $tablet-width) {
+  .lazy-spacer{
+    padding: 25px;
+  }
+}
+
+@media (max-width: $phone-width) {
+  .lazy-spacer{
+    padding: 20px;
+  }
+}
+

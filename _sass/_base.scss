@@ -22,10 +22,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
+  margin-top: 5rem;
   font-size: 2rem;
 }
 h2 {
-  margin-top: 1rem;
+  margin-top: 5rem;
   font-size: 2rem;
 }
 h3 {
@@ -40,6 +41,7 @@ h4, h5, h6 {
 /* Body */
 body {
   font-family: $base-font-family;
+  background-color: $bg-gray;
 }
 body img {
   align: middle;
@@ -122,6 +124,15 @@ th, td {
   text-align: left;
 }
 
+hr {
+  display: block;
+  height: 1px;
+  width: 600px;
+  border: 0;
+  border-top: 1px solid #ccc;
+  margin: 1em 0;
+  margin: 3em auto
+}
 
 
 // jp changing fonts for smaller screens
