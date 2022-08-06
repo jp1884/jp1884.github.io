@@ -4,67 +4,32 @@ title: "Setting the stage"
 author: "John"
 categories: documentation
 tags: [documentation,sample]
-image: storytelling/stefano-stacchini-jhPSJDhiRyQ-unsplash.jpg
-# - Artwork: students listening on the stage.
+# image: storytelling/stefano-stacchini-jhPSJDhiRyQ-unsplash.jpg
+image: storytelling/spiral_future.jpg
 
 ---
 
 ## Preface
 
-Every job interview, first date, or news broadcast has a beginning, middle, and end, with a character trying to achieve something. That's the outline of every story. We know how to read, listen, and even tell stories, but what exactly is a story?
+We've all listened, watched, and told stories. But what exactly is a story?
 
-One of our greatest thinkers, Aristotle, answered these questions around 330 BC. The Greek philosopher taught his students dramatic writing, and luckily we still have his lecture notes that we put inside a book called "Aristotle's Poetics." In this book, Aristotle explains all stories must have heroic action that arouses strong emotions from the audience inside a structure with a definite beginning, middle, and end. The story must have a mixture of tragic character flaws, plot twists, and surprise endings.
+One of our greatest thinkers, Aristotle, answered that question around 330 BC. The Greek philosopher taught his students dramatic writing. In *Poetics*, Aristotle explains all stories must have heroic action that arouses strong emotions from the audience inside a structure with a definite beginning, middle, and end. The story must have a mixture of tragic character flaws, plot twists, and surprise endings.
 
-Nothing has changed in the art of storytelling. That's why playwright, screenwriter, and director David Mamet could use Aristotle's work to create his timeless work. And happily, Mamet also teaches students about storytelling, and since he's more approachable, we use his teaches to get at the heart of storytelling.
+Celebrated playwright, screenwriter, and director David Mamet used Aristotle's work to create his timeless work. And happily, Mamet also teaches students about storytelling, and since he's more approachable, we use his teaches to get at the heart of storytelling.
 
-Our goal in this book is to understand stories.To do so, we must sit back and become a student of Aristotle and Mamet and learn the fundamentals of storytelling.
-
-And great news, the lessons are both surprising and logical, the two main ingredients of any good story.
+The goal of this books is to use stories to better understand human affairs, from product development to politics. The goal of this chapter is to start our this process by going on a deep dive to really understand stories. To do so, we'll become a student of Aristotle and Mamet and learn the fundamentals. And great news, the lessons of storytelling are both surprising and logical, the two ingredients of any good tale.
 
 - Why do events/plot mean so much. Because there can be many different opinions, feelings, ideologies, but only one time and place, what technology/prop occupies that time and place is the goal of every hero, and therefore the drama behind every story.
 
 ## Quote
 
-_But what shall their [children] education be? Is any better than the old-fashioned sort which is comprehended under the name of music and gymnastic? Music includes literature, and literature is of two kinds, true and false. ‘What do you mean?’ he said. I mean that children hear stories before they learn gymnastics, and that the stories are either untrue, or have at most one or two grains of truth in a bushel of falsehood. Now early life is very impressible, and children ought not to learn what they will have to unlearn when they grow up._
+_Socrates said 'But what shall the children's education be? Is any better than the old-fashioned sort which is comprehended under the name of music and gymnastic? Music includes literature, and literature is of two kinds, true and false'._
 
-Benjamin Jowett commenting Socrates speaking in Book III of _The Republic of Plato_.
+_‘What do you mean?’ Glaucon asked._
 
-<https://www.gutenberg.org/files/1497/1497-h/1497-h.htm>
+_'I mean that children hear stories before they learn gymnastics, and that the stories are either untrue, or have at most one or two grains of truth in a bushel of falsehood. Now early life is very impressible, and children ought not to learn what they will have to unlearn when they grow up._'
 
----
-
-Come then, and let us pass a leisure hour in story-telling, and our story shall be the education of our heroes.
-
-By all means.
-
-And what shall be their education? Can we find a better than the traditional sort?—and this has two divisions, gymnastic for the body, and music for the soul.
-
-True.
-
-Shall we begin education with music, and go on to gymnastic afterwards?
-
-By all means.
-
-And when you speak of music, do you include literature or not?
-
-I do.
-
-And literature may be either true or false?
-
-Yes.
-
-And the young should be trained in both kinds, and we begin with the false?
-
-I do not understand your meaning, he said.
-
-You know, I said, that we begin by telling children stories which, though not wholly destitute of truth, are in the main fictitious; and these stories are told them when they are not of an age to learn gymnastics.
-
-Very true.
-
-That was my meaning when I said that we must teach music before gymnastics.
-
-Socrates speaking to Glaucon in Book III of _The Republic of Plato_
-<https://www.gutenberg.org/files/1497/1497-h/1497-h.htm>
+Socrates speaking to student Glaucon in Book III of [_The Republic of Plato_](https://www.gutenberg.org/files/1497/1497-h/1497-h.htm). Edited by B. Jowett.
 
 ## Table of Contents
 
@@ -125,7 +90,7 @@ The hand-off between ego and id is analogous to a screenwriter giving a director
 
 <figure style="padding:40px">
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fexternal-preview.redd.it%2FPyXi6e-PbiQ5lVM42GQKLLFUas7PP2C3WJ63Nm0Cnu0.jpg%3Fauto%3Dwebp%26s%3Dcd6f8be0c6ebb9972a5e2593a73b806b3833bc90&f=1&nofb=1" alt="Star Wars picture" style="width:100%; padding-bottom: 20px">
-<figcaption align = "center"><b>In Star Wars (1977), delivering the Death Star plans is Prince Leia's and Luke Skywalker one goal. We don't see scenes about their favorite food or what their personal hobbies. Telling a series of events where heroes try to overcome a problem is why Star Wars is a story we still watch today.</b></figcaption>
+<figcaption align = "center"><b>In Star Wars (1977), delivering the Death Star plans is Prince Leia's and Luke Skywalker one goal. We don't see scenes about their favorite food or their personal hobbies. Telling a series of events where heroes try to overcome a problem is why Star Wars is a story we still watch today.</b></figcaption>
 </figure>
 
 ## Chapter 1 - Storytelling
@@ -234,7 +199,7 @@ With all the above in mind, and after some more work, the students and Mamet exp
 
 4. Present the case for regrading: An empty desk. Professor sits down. The notebook is put on the desk. The professor grabs it and looks at the notebook.
 
-The last beat the class needs is the conclusion. What will the professor do?
+Now the class needs a conclusion to the question, what will the professor do?
 
 Mamet dismisses the idea the professor decides to "think if he's change the grade." Instead, the professor should make a judgment then and there because it's more dramatic. Mamet reminds his students the next beat doesn't have to "follow the protagonist." With this in mind, the class decides the last beats are.
 

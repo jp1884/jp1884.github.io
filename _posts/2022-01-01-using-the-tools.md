@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Learning the Lessons"
-author: "Paul Le"
+author: "John"
 categories: sample
 tags: [sample]
-image: lessons/stephen-h-dF4qSZKJw_g-unsplash.jpg
-# image: tev/problem-solving-labels-bw.png
+# image: lessons/stephen-h-dF4qSZKJw_g-unsplash.jpg
+image: lessons/new_frontier5.jpg
+
 ---
 
 ## Unique Lessons Using Story Based Tools
