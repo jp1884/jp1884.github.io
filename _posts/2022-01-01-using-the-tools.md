@@ -5,7 +5,7 @@ author: "John"
 categories: sample
 tags: [sample]
 # image: lessons/stephen-h-dF4qSZKJw_g-unsplash.jpg
-image: lessons/new_frontier5.jpg
+image: lessons/new_frontier6.jpg
 
 ---
 
