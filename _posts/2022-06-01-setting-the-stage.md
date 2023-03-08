@@ -13,13 +13,11 @@ image: storytelling/spiral_future.jpg
 
 We've all listened, watched, and told stories. But what exactly is a story?
 
-One of our greatest thinkers, Aristotle, answered that question around 330 BC. The Greek philosopher taught his students dramatic writing. In *Poetics*, Aristotle explains all stories must have heroic action that arouses strong emotions from the audience inside a structure with a definite beginning, middle, and end. The story must have a mixture of tragic character flaws, plot twists, and surprise endings.
+One of our greatest thinkers, Aristotle, answered that question around 330 BC. The Greek philosopher taught dramatic writing. In *Poetics*, Aristotle explains all stories must have heroic action that arouses strong emotions from the audience inside a structure with a definite beginning, middle, and end. Proper dramatic storytelling must have a mixture of tragic character flaws, plot twists, and surprise endings.
 
-Celebrated playwright, screenwriter, and director David Mamet used Aristotle's work to create his timeless work. And happily, Mamet also teaches students about storytelling, and since he's more approachable, we use his teaches to get at the heart of storytelling.
+Celebrated playwright, screenwriter, and director David Mamet used *Poetics* to create his timeless work. Happily, Mamet also teaches storytelling and since he's more approachable, we use him to get at the heart of storytelling.
 
-The goal of this books is to use stories to better understand human affairs, from product development to politics. The goal of this chapter is to start our this process by going on a deep dive to really understand stories. To do so, we'll become a student of Aristotle and Mamet and learn the fundamentals. And great news, the lessons of storytelling are both surprising and logical, the two ingredients of any good tale.
-
-- Why do events/plot mean so much. Because there can be many different opinions, feelings, ideologies, but only one time and place, what technology/prop occupies that time and place is the goal of every hero, and therefore the drama behind every story.
+*Story Cut Tools* helps anyone use stories to better understand human affairs, from product development to politics. The goal of this chapter is to start our this process we deep dive into storytelling. To do so, we'll become a student of Aristotle and Mamet and learn the fundamentals. And great news, the lessons of storytelling are both surprising and logical, the two ingredients of any good tale.
 
 ## Quote
 
@@ -66,11 +64,6 @@ In the book I summarize here, Mamet explains how to tell a story. Like making a 
 Mamet teaches how to stay on target and create good stories, which is the only thing the audience wants. His lessons teach designers how to make better websites. A manager to manage workers better. A CEO to improve how she oversees a corporation. Anyone trying to achieve something can learn from this book because they should always know they aren't the true boss.
 
 The person using a product, whoever that person is, is the most important person in the world. Because they're the hero using your creation to solve a real-life problem. Putting a smile on your face pales compared to putting one on theirs.
-
-<figure style="padding:40px">
-<img src="assets\img\storytelling\glengarryglenross1992.jpg" alt="Trulli" style="width:100%; padding-bottom: 20px">
-<figcaption align = "center"><b>A watch made unforgettable with quality storytelling. But this could just as easily have been an advertisement, show, or a story told over morning coffees. Storytelling in any form makes lasting memories in our minds.</b></figcaption>
-</figure>
 
 ## Mamet on Stories
 
